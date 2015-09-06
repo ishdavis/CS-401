@@ -1,0 +1,10 @@
+Who was the first President of the United States?
+George Washington
+Who was the most famous traitor in American history?
+Benedict Arnold
+How many countries have a population greater than the United States?(int)
+2
+What climate zone covers most of Africa?
+Tropical
+What is a GUI?
+Graphical User Interface
